@@ -1,0 +1,2 @@
+cara menjalankan : jalankan dulu api golangnya dan konek ke database, lalu php baru di jalankan
+disini frontend hanya menampilkan dengan datatables
